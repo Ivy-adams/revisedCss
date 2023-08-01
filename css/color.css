@@ -1,0 +1,13 @@
+/* color name */
+h1 {color: white;}
+/* hex code */
+h2 {color: #ffffff;}
+/* rgb value */
+p {color: rgb(100,100,90);}
+body {background-color: rgb(255,255,255); padding: 50px 50px 50px 50px;}
+h1 {background-color: Darkcyan; padding:10px;}
+h2 {background-color: #ee3e80; padding:10px;}
+p {
+    background-color: white; padding: 10px;
+}
+div {background-color: rgb(200,200,200); padding:10px 25px 10px 25px;}
