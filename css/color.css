@@ -1,7 +1,8 @@
+@font-face {font-family: 'Emekafont'; src: url('../fonts/myfirstfont.otf');}
 /* color name */
-h1 {color: white;}
+h1 {color: white; font-family: Emekafont; }
 /* hex code */
-h2 {color: #ffffff;}
+h2 {color: #ffffff;font-family:Emekafont;}
 /* rgb value */
 p {color: rgb(100,100,90);}
 body {background-color: rgb(255,255,255); padding: 50px 50px 50px 50px;}
