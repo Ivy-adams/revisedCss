@@ -1,0 +1,7 @@
+.align-left {
+    text-align: left;
+}
+.align-right { text-align: right;}
+.justify { text-align: justify;}
+.align-center { text-align: center;}
+button:hover {background-color: red; color:white; cursor:pointer;}
